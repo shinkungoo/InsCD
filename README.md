@@ -189,8 +189,6 @@ export WANDB_MODE=offline
 
 Contributors are arranged in alphabetical order by first name. We welcome more people to participate in maintenance and improve the community of intelligent education.
 
-()
-
 ------
 
 ## 🧾 Citation
